@@ -1,0 +1,22 @@
+*dashboard
+-dashboard === điểm danh online <check>
+*profile
+- thay ảnh === mssv 
+- xoá select country
+- xoá 254 - 54 
+- xoá massage
+*table
+- đổi basic table === sv đã vào lớp
+- đổi tên table === điểm danh
+- xoá 1 nút upgrade to pro (vàng ) , thay màu đỏ thành nút điểm danh
+- tạo 1 nút điểm danh
+- đổi first name === mssv 
+- đổi last name === tên sv
+- đổi username === email
+*icon
+- form giống page table 
+- basic table === sv chưa vào lớp
+* xoá ggmap
+* blank page === xin phép nghỉ học
+- tạo form cho sv làm đơn nghỉ buổi học
+* tạo page cho gv acp nghỉ học
